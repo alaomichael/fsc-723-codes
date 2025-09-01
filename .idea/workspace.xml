@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e32ae86-6c10-4211-8d53-e031e65f776f" name="Changes" comment="Question 1 commit">
-      <change afterPath="$PROJECT_DIR$/question2.ipynb" afterDir="false" />
+    <list default="true" id="9e32ae86-6c10-4211-8d53-e031e65f776f" name="Changes" comment="Question 2 commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook.ipynb" afterDir="false" />
     </list>
@@ -43,6 +42,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
@@ -97,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756742290787</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Question 2 commit">
+      <option name="closed" value="true" />
+      <created>1756747910678</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1756747910678</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +126,7 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="Second commit" />
     <MESSAGE value="Question 1 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Question 1 commit" />
+    <MESSAGE value="Question 2 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Question 2 commit" />
   </component>
 </project>
